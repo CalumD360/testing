@@ -1,1 +1,1 @@
-This is my test article
+This is my test article.
